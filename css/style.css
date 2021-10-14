@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.add-item{
+    color: blueviolet;
+    margin-left: 0.5rem;
+    font-size: 3rem;
+    cursor: pointer;
+}
